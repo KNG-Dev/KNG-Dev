@@ -1,8 +1,8 @@
 ### Hi there, I'm Kenny 👋
 
 ## I'm an iOS Developer!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- 👨‍💻 Self-taught developer who learns by building his own apps!
+- 🤓 Motivated developer who is always looking to learn new technology!
 
 
 ### Apps Released on Appstore:
