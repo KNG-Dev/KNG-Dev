@@ -21,8 +21,8 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Gatsby" width="26px" src="Swift_logo.png" />
-<img align="left" alt="Gatsby" width="26px" src="SwiftUILogo.png" />
+<img align="left" alt="Swift" width="26px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/Swift_logo.png" />
+<img align="left" alt="SwiftUI" width="26px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/SwiftUILogo.png" />
 <img align="left" alt="Gatsby" width="26px" src="Sketch_Logo.png" />
 <img align="left" alt="Gatsby" width="26px" src="XcodeLogo.png" />
 <img align="left" alt="Gatsby" width="18px" src="FirebaseLogo.png" />
