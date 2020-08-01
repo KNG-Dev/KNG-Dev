@@ -7,8 +7,8 @@
 
 ### Apps Released on Appstore:
 
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="CookAListLogo.png"/>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="CookAListLogo.png"/>][website]
 
 <br />
 
