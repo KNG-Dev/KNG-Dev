@@ -7,7 +7,7 @@
 
 ### Apps Released on Appstore:
 
-[<img align="left" alt="AlphaRex" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][AlpaRex]
+[<img align="left" alt="AlphaRex" width="22px" src="AlphaRexLogo.png"/>][AlpaRex]
 [<img align="left" alt="CookAList" width="22px" src="CookAListLogo.png"/>][CookAList]
 
 <br />
