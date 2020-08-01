@@ -8,7 +8,7 @@
 ### Apps Released on Appstore:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="CookAListLogo.png"/>][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="CookAListLogo.png"/>][CookAList]
 
 <br />
 
@@ -41,6 +41,7 @@
 <img align="left" alt="KNG-Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KNG-Dev&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
+[CookAList]: https://apps.apple.com/ca/app/cookalist/id1467768162
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
