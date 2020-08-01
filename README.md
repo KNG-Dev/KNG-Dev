@@ -22,11 +22,11 @@
 
 ### Languages and Tools:
 <img align="left" alt="Swift" width="26px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/Swift_logo.png" />
-<img align="left" alt="SwiftUI" width="26px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/SwiftUILogo.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/Sketch_Logo.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/XcodeLogo.png" />
-<img align="left" alt="Gatsby" width="18px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/FirebaseLogo.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/CocoapodsLogo.png" />
+<img align="left" alt="Sketch" width="25px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/Sketch_Logo.png" />
+<img align="left" alt="SwiftUI" width="28px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/SwiftUILogo.png" />
+<img align="left" alt="Xcode" width="28px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/XcodeLogo.png" />
+<img align="left" alt="Firebase" width="18px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/FirebaseLogo.png" />
+<img align="left" alt="Cocoapods" width="26px" src="https://github.com/KNG-Dev/KNG-Dev/blob/master/CocoapodsLogo.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
