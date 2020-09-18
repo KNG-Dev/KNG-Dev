@@ -39,7 +39,7 @@
 
 [AlphaRex]: https://apps.apple.com/us/app/alpharex/id1516005642
 [CookAList]: https://apps.apple.com/ca/app/cookalist/id1467768162
-[twitter]: https://twitter.com/ken_kennedy_ho
-[instagram]: https://www.instagram.com/kenkennedyho/
+[twitter]: https://twitter.com/kennygotapenny
+[instagram]: https://www.instagram.com/kennywithnopenny/
 [linkedin]: https://www.linkedin.com/in/kenny-ho-84b039a3/
 
