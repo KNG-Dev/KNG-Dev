@@ -3,6 +3,8 @@
 ## I'm an iOS Developer!
 - 👨‍💻 Self-taught developer who learns by building his own apps!
 - 🤓 Motivated developer who is always looking to learn new technology!
+- 4 years of iOS development experience.
+- 
 
 
 ### Apps Released on Appstore:
